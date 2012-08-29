@@ -2,5 +2,6 @@
 <title>Marcus West's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 </channel></rss>
